@@ -9,3 +9,8 @@
     * FrontEnd: Typescript, tailwind, React, Zustand, Zod.
     * BanckEnd: Next.js v.14, App Router, Server Actions, Prisma, Zod.
 
+### Visitar la APP como cliente
+https://app-pedidos-comida.vercel.app
+
+#### URL de la APP como Administrador para gestionar y editar productos y pedidos
+https://app-pedidos-comida.vercel.app/admin/products
