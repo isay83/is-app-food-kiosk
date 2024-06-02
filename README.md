@@ -1,6 +1,8 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://app-pedidos-comida.vercel.app/logo.svg" width="800"/>
+  <img decoding="async" src="https://app-pedidos-comida.vercel.app/logo.svg" width="500"/>
 </div>
+
+<div id="badges" align="center">
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-bernal-b806ba292/)
 
@@ -8,7 +10,13 @@
 
 [![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://bernalarriaga.com/cv/)
 
-![](https://komarev.com/ghpvc/?username=isay83&style=for-the-badge&abbreviated=true)
+</div>
+
+<div id="badges" align="center">
+
+[![](https://komarev.com/ghpvc/?username=isay83&style=for-the-badge&abbreviated=true)](https://github.com/isay83/)
+
+</div>
 
 # APP PEDIDOS COMIDA
 
