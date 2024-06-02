@@ -1,3 +1,15 @@
+<div id="header" align="center">
+  <img decoding="async" src="https://app-pedidos-comida.vercel.app/logo.svg" width="800"/>
+</div>
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-bernal-b806ba292/)
+
+[![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOuQXbs6SHQ58t6xEur6siQ)
+
+[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://bernalarriaga.com/cv/)
+
+![](https://komarev.com/ghpvc/?username=isay83&style=for-the-badge&abbreviated=true)
+
 # APP PEDIDOS COMIDA
 
 ## Aplicación para hacer pedidos de Comida
@@ -10,9 +22,9 @@ En la parte del FrontEnd el cliente selecciona los productos que desea, confirma
 - FrontEnd: [Typescript](https://www.typescriptlang.org), [tailwind](https://tailwindcss.com), [React](https://es.react.dev), [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction), [Zod](https://zod.dev).
 - BanckEnd: [Next.js v.14](https://nextjs.org/blog/next-14), [App Router](https://nextjs.org/docs/app), [Server Actions](https://swr.vercel.app), [Prisma](https://www.prisma.io), [Zod](https://zod.dev).
 
-> [!IMPORTANT]
-> [Visitar la APP como Cliente 📦](https://app-pedidos-comida.vercel.app)
-> [Visitar la APP como Administrador para gestionar y editar productos y pedidos 📦](https://app-pedidos-comida.vercel.app/admin/products)
+> [!IMPORTANT] > [Visitar la APP como Cliente 📦](https://app-pedidos-comida.vercel.app)
+
+> [!IMPORTANT] > [Visitar la APP como Administrador para gestionar y editar productos y pedidos 📦](https://app-pedidos-comida.vercel.app/admin/products)
 
 > [!NOTE]  
 > Esta app fue realizada siguiendo los tutoriales de Udemy [Quiosco de Comida con Next.js](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/learn/lecture/42840964#overview)
