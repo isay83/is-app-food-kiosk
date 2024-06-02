@@ -37,7 +37,7 @@ En la parte del FrontEnd el cliente selecciona los productos que desea, confirma
 > [!NOTE]  
 > Esta app fue realizada siguiendo los tutoriales de Udemy [Quiosco de Comida con Next.js](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/learn/lecture/42840964#overview)
 
-## <span style="color: orange;">Historial de Versiones</span>
+## Historial de Versiones
 
 ### Versión 1.0 (Sección 58: Quiosco de Comida con Next.js 14 - Server Actions Prisma Zod Y Zustand)
 
