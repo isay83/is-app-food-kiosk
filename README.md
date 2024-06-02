@@ -104,3 +104,8 @@ En la parte del FrontEnd el cliente selecciona los productos que desea, confirma
 
 - Configuración para el despliegue de la aplicación.
 - Despliegue en Vercel.
+
+### Versión 2.3 (Feature 2 - Deployment)
+
+- Recomendación de productos.
+- Despliegue en Vercel.
