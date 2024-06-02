@@ -7,12 +7,12 @@ En la parte del FrontEnd el cliente selecciona los productos que desea, confirma
 
 ### Programas Utilizados para el Desarrollo 🛠️
 
-- FrontEnd: [Typescript](https://www.typescriptlang.org), [tailwind](https://tailwindcss.com), [React], [Zustand], [Zod].
-- BanckEnd: [Next.js v.14], [App Router], [Server Actions], [Prisma], [Zod].
+- FrontEnd: [Typescript](https://www.typescriptlang.org), [tailwind](https://tailwindcss.com), [React](https://es.react.dev), [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction), [Zod](https://zod.dev).
+- BanckEnd: [Next.js v.14](https://nextjs.org/blog/next-14), [App Router](https://nextjs.org/docs/app), [Server Actions](https://swr.vercel.app), [Prisma](https://www.prisma.io), [Zod](https://zod.dev).
 
-### Visitar la APP como Cliente https://app-pedidos-comida.vercel.app
+### Visitar la APP como Cliente 📦 https://app-pedidos-comida.vercel.app
 
-### URL de la APP como Administrador para gestionar y editar productos y pedidos https://app-pedidos-comida.vercel.app/admin/products
+### URL de la APP como Administrador para gestionar y editar productos y pedidos 📦 https://app-pedidos-comida.vercel.app/admin/products
 
 ## Historial de Versiones
 
@@ -81,3 +81,6 @@ En la parte del FrontEnd el cliente selecciona los productos que desea, confirma
 
 - Configuración para el despliegue de la aplicación.
 - Despliegue en Vercel.
+
+> [!NOTE]  
+> Esta app fue realizada siguiendo los tutoriales de Udemy [Quiosco de Comida con Next.js](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/learn/lecture/42840964#overview)
