@@ -4,6 +4,40 @@ import { formatCurrency } from '@/src/utils'
 import { useStore } from '@/src/store'
 import { useMemo } from 'react'
 
+// feature 2
+
+import { useState, useEffect } from 'react';
+import { getRelatedProducts } from '@/src/utils/getRelatedProducts';
+
+const RelatedProducts = ({ product }) => {
+  const [relatedProducts, setRelatedProducts] = useState([]);
+
+  useEffect(() => {
+    const fetchRelatedProducts = async () => {
+      const related = await getRelatedProducts(product.id);
+      setRelatedProducts(related);
+    };
+    fetchRelatedProducts();
+  }, [product.id]);
+
+  return (
+    <div>
+      <h3 className="text-lg font-bold mb-2">Productos relacionados</h3>
+      <div className="grid grid-cols-3 gap-4">
+        {relatedProducts.map((product) => (
+          <div key={product.id} className="border p-2">
+            <img src={product.imageUrl} alt={product.name} className="w-full h-32 object-cover mb-2" />
+            <p className="text-sm font-bold">{product.name}</p>
+            <p className="text-sm">{formatCurrency(product.price)}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+};
+
+// feature 2
+
 type ProductDetailsProps = {
     item: OrderItem
 }
