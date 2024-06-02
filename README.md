@@ -12,7 +12,7 @@ En la parte del FrontEnd el cliente selecciona los productos que desea, confirma
 
 ### Visitar la APP como cliente https://app-pedidos-comida.vercel.app
 
-#### URL de la APP como Administrador para gestionar y editar productos y pedidos https://app-pedidos-comida.vercel.app/admin/products
+### URL de la APP como Administrador para gestionar y editar productos y pedidos https://app-pedidos-comida.vercel.app/admin/products
 
 ## Historial de Versiones
 
@@ -81,5 +81,3 @@ En la parte del FrontEnd el cliente selecciona los productos que desea, confirma
 
 - Configuración para el despliegue de la aplicación.
 - Despliegue en Vercel.
-
-Puedes actualizar este historial de versiones a medida que vayas completando cada sección y agregando nuevas funcionalidades a tu proyecto.
