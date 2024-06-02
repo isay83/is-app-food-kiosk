@@ -39,11 +39,15 @@ En la parte del FrontEnd el cliente selecciona los productos que desea, confirma
 
 ## Historial de Versiones
 
+<span style="color: orange;">
+
 ### Versión 1.0 (Sección 58: Quiosco de Comida con Next.js 14 - Server Actions Prisma Zod Y Zustand)
 
 - Configuración inicial del proyecto con Next.js 14, Prisma, Zod y Zustand.
 - Creación de la base de datos con Prisma.
 - Definición de la estructura y rutas del proyecto.
+
+</span>
 
 ### Versión 1.1 (Sección 59: Quiosco de Comida cib Next.js 14 - Prisma ORM)
 
