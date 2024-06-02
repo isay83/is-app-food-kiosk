@@ -11,10 +11,8 @@ En la parte del FrontEnd el cliente selecciona los productos que desea, confirma
 - BanckEnd: [Next.js v.14](https://nextjs.org/blog/next-14), [App Router](https://nextjs.org/docs/app), [Server Actions](https://swr.vercel.app), [Prisma](https://www.prisma.io), [Zod](https://zod.dev).
 
 > [!IMPORTANT]
-
-### > [Visitar la APP como Cliente 📦](https://app-pedidos-comida.vercel.app)
-
-### > [Visitar la APP como Administrador para gestionar y editar productos y pedidos 📦](https://app-pedidos-comida.vercel.app/admin/products)
+> [Visitar la APP como Cliente 📦](https://app-pedidos-comida.vercel.app)
+> [Visitar la APP como Administrador para gestionar y editar productos y pedidos 📦](https://app-pedidos-comida.vercel.app/admin/products)
 
 > [!NOTE]  
 > Esta app fue realizada siguiendo los tutoriales de Udemy [Quiosco de Comida con Next.js](https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/learn/lecture/42840964#overview)
